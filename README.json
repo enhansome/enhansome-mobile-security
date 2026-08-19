@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 216696377,
                 "language": "Python",
-                "last_commit": "2026-08-15T02:16:22Z",
+                "last_commit": "2026-08-19T12:31:46Z",
                 "owner": "ev-flow",
                 "repo": "quark-engine",
                 "stars": 1710
@@ -68,10 +68,10 @@
                     "archived": false,
                     "id": 29857799,
                     "language": "OCaml",
-                    "last_commit": "2026-08-12T11:20:16Z",
+                    "last_commit": "2026-08-19T11:28:51Z",
                     "owner": "facebook",
                     "repo": "infer",
-                    "stars": 15677
+                    "stars": 15679
                   }
                 },
                 {
@@ -83,10 +83,10 @@
                     "archived": false,
                     "id": 12499251,
                     "language": "Java",
-                    "last_commit": "2026-08-19T06:32:15Z",
+                    "last_commit": "2026-08-19T12:23:18Z",
                     "owner": "checkstyle",
                     "repo": "checkstyle",
-                    "stars": 8992
+                    "stars": 8990
                   }
                 },
                 {
@@ -98,7 +98,7 @@
                     "archived": false,
                     "id": 23206290,
                     "language": "Java",
-                    "last_commit": "2026-08-19T07:33:27Z",
+                    "last_commit": "2026-08-19T12:34:33Z",
                     "owner": "google",
                     "repo": "error-prone",
                     "stars": 7222
@@ -143,7 +143,7 @@
                     "archived": false,
                     "id": 4992906,
                     "language": "Java",
-                    "last_commit": "2026-08-19T03:53:33Z",
+                    "last_commit": "2026-08-19T11:45:09Z",
                     "owner": "pmd",
                     "repo": "pmd",
                     "stars": 5468
@@ -345,10 +345,10 @@
                     "archived": false,
                     "id": 4869294,
                     "language": "C",
-                    "last_commit": "2026-08-19T00:36:40Z",
+                    "last_commit": "2026-08-19T11:03:59Z",
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24596
+                    "stars": 24597
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-08-17T21:31:57Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21610
+                    "stars": 21612
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "last_commit": "2026-08-03T21:28:34Z",
                     "owner": "m0bilesecurity",
                     "repo": "RMS-Runtime-Mobile-Security",
-                    "stars": 3070
+                    "stars": 3071
                   }
                 },
                 {
@@ -540,7 +540,7 @@
                 "last_commit": "2026-08-14T05:36:04Z",
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13119
+                "stars": 13120
               }
             },
             {
@@ -570,7 +570,7 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1466
+                "stars": 1467
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1466
+                "stars": 1467
               }
             },
             {
@@ -847,7 +847,7 @@
                 "last_commit": "2024-07-24T18:34:52Z",
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5080
+                "stars": 5081
               }
             },
             {
@@ -922,7 +922,7 @@
                 "last_commit": "2026-06-05T16:54:23Z",
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
-                "stars": 217
+                "stars": 218
               }
             },
             {
@@ -1032,7 +1032,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21667
+                "stars": 21670
               }
             },
             {
@@ -1047,7 +1047,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9325
+                "stars": 9327
               }
             },
             {
@@ -1092,7 +1092,7 @@
                 "last_commit": "2026-08-19T04:53:33Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1156
+                "stars": 1157
               }
             },
             {
@@ -1254,8 +1254,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:43:45.609Z",
+    "last_updated": "2026-08-19T12:44:15.863Z",
     "original_repository": "vaib25vicky/awesome-mobile-security",
+    "original_repository_id": 231425210,
     "original_repository_sha": "490ed366b448d4635a8263be62c51a92a619d060",
     "enhanced_repository": "enhansome/enhansome-mobile-security",
     "enhanced_repository_description": null,
