@@ -83,7 +83,7 @@
                     "archived": false,
                     "id": 12499251,
                     "language": "Java",
-                    "last_commit": "2026-08-24T07:58:32Z",
+                    "last_commit": "2026-08-24T13:44:05Z",
                     "owner": "checkstyle",
                     "repo": "checkstyle",
                     "stars": 8999
@@ -131,7 +131,7 @@
                     "last_commit": "2025-08-20T21:55:15Z",
                     "owner": "dwisiswant0",
                     "repo": "apkleaks",
-                    "stars": 6268
+                    "stars": 6271
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2026-08-21T11:11:38Z",
                     "owner": "pmd",
                     "repo": "pmd",
-                    "stars": 5469
+                    "stars": 5471
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                     "archived": false,
                     "id": 4869294,
                     "language": "C",
-                    "last_commit": "2026-08-23T22:41:45Z",
+                    "last_commit": "2026-08-24T13:18:49Z",
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24631
+                    "stars": 24632
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-08-21T22:30:56Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21629
+                    "stars": 21631
                   }
                 },
                 {
@@ -555,7 +555,7 @@
                 "last_commit": "2026-04-08T07:54:54Z",
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4595
+                "stars": 4594
               }
             },
             {
@@ -832,7 +832,7 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9635
+                "stars": 9638
               }
             },
             {
@@ -1022,6 +1022,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Reverse Engineering iOS Applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178894186,
+                "language": null,
+                "last_commit": "2024-04-17T03:04:19Z",
+                "owner": "ivRodriguezCA",
+                "repo": "RE-iOS-Apps",
+                "stars": 2898
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Courses"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Frida",
               "description": null,
               "children": [],
@@ -1032,7 +1054,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21714
+                "stars": 21717
               }
             },
             {
@@ -1211,7 +1233,7 @@
                 "last_commit": "2026-08-15T02:27:49Z",
                 "owner": "ashishb",
                 "repo": "osx-and-ios-security-awesome",
-                "stars": 1727
+                "stars": 1728
               }
             },
             {
@@ -1254,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:00:36.782Z",
+    "last_updated": "2026-08-24T13:58:26.711Z",
     "original_repository": "vaib25vicky/awesome-mobile-security",
     "original_repository_id": 231425210,
     "original_repository_sha": "490ed366b448d4635a8263be62c51a92a619d060",
