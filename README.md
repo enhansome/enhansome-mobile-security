@@ -71,9 +71,9 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 #### Static Analysis
 
-* [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,687 | 🐛 297 | 🌐 OCaml | 📅 2026-08-24
+* [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,688 | 🐛 297 | 🌐 OCaml | 📅 2026-08-24
 * [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,000 | 🐛 788 | 🌐 Java | 📅 2026-08-25
-* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,226 | 🐛 520 | 🌐 Java | 📅 2026-08-24
+* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,226 | 🐛 521 | 🌐 Java | 📅 2026-08-24
 * [Smali/Baksmali – Assembler/Disassembler for the dex format](https://github.com/JesusFreke/smali) ⚠️ Archived
 * [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks) ⭐ 6,271 | 🐛 26 | 🌐 Python | 📅 2025-08-20
 * [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd) ⭐ 5,471 | 🐛 585 | 🌐 Java | 📅 2026-08-21
@@ -98,8 +98,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 #### Dynamic Analysis
 
-* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 24,638 | 🐛 818 | 🌐 C | 📅 2026-08-25
-* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,640 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21
+* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 24,640 | 🐛 819 | 🌐 C | 📅 2026-08-25
+* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,641 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,072 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03
 * [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,981 | 🐛 59 | 🌐 Java | 📅 2020-09-22
 * [AndroL4b - Android security virtual machine based on ubuntu-mate](https://github.com/sh4hin/Androl4b) ⭐ 1,166 | 🐛 5 | 📅 2023-05-31
@@ -248,7 +248,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### Tools
 
-* [Frida](https://github.com/frida/frida/releases) ⭐ 21,729 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-18
+* [Frida](https://github.com/frida/frida/releases) ⭐ 21,730 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-18
 * [Objection - mobile exploration toolkit by Frida](https://github.com/sensepost/objection) ⭐ 9,343 | 🐛 55 | 🌐 Python | 📅 2026-07-23
 * [iOS Security Suite - an advanced and easy-to-use platform security & anti-tampering library](https://github.com/securing/IOSSecuritySuite) ⭐ 2,712 | 🐛 7 | 🌐 Swift | 📅 2026-08-05
 * [needle - The iOS Security Testing Framework](https://github.com/FSecureLABS/needle) ⚠️ Archived

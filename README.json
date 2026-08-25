@@ -71,7 +71,7 @@
                     "last_commit": "2026-08-24T17:51:05Z",
                     "owner": "facebook",
                     "repo": "infer",
-                    "stars": 15687
+                    "stars": 15688
                   }
                 },
                 {
@@ -83,7 +83,7 @@
                     "archived": false,
                     "id": 12499251,
                     "language": "Java",
-                    "last_commit": "2026-08-25T02:02:33Z",
+                    "last_commit": "2026-08-25T07:34:40Z",
                     "owner": "checkstyle",
                     "repo": "checkstyle",
                     "stars": 9000
@@ -348,7 +348,7 @@
                     "last_commit": "2026-08-25T03:54:47Z",
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24638
+                    "stars": 24640
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-08-21T22:30:56Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21640
+                    "stars": 21641
                   }
                 },
                 {
@@ -1054,7 +1054,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21729
+                "stars": 21730
               }
             },
             {
@@ -1276,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:40.639Z",
+    "last_updated": "2026-08-25T07:49:35.892Z",
     "original_repository": "vaib25vicky/awesome-mobile-security",
     "original_repository_id": 231425210,
     "original_repository_sha": "490ed366b448d4635a8263be62c51a92a619d060",
