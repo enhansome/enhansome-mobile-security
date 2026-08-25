@@ -68,10 +68,10 @@
                     "archived": false,
                     "id": 29857799,
                     "language": "OCaml",
-                    "last_commit": "2026-08-21T12:01:45Z",
+                    "last_commit": "2026-08-24T17:51:05Z",
                     "owner": "facebook",
                     "repo": "infer",
-                    "stars": 15686
+                    "stars": 15687
                   }
                 },
                 {
@@ -83,10 +83,10 @@
                     "archived": false,
                     "id": 12499251,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:44:05Z",
+                    "last_commit": "2026-08-25T02:02:33Z",
                     "owner": "checkstyle",
                     "repo": "checkstyle",
-                    "stars": 8999
+                    "stars": 9000
                   }
                 },
                 {
@@ -98,7 +98,7 @@
                     "archived": false,
                     "id": 23206290,
                     "language": "Java",
-                    "last_commit": "2026-08-24T00:26:15Z",
+                    "last_commit": "2026-08-24T22:58:10Z",
                     "owner": "google",
                     "repo": "error-prone",
                     "stars": 7226
@@ -116,7 +116,7 @@
                     "last_commit": "2024-01-17T22:59:22Z",
                     "owner": "JesusFreke",
                     "repo": "smali",
-                    "stars": 6629
+                    "stars": 6628
                   }
                 },
                 {
@@ -345,10 +345,10 @@
                     "archived": false,
                     "id": 4869294,
                     "language": "C",
-                    "last_commit": "2026-08-24T13:18:49Z",
+                    "last_commit": "2026-08-25T03:54:47Z",
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24632
+                    "stars": 24638
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-08-21T22:30:56Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21631
+                    "stars": 21640
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "last_commit": "2026-08-03T21:28:34Z",
                     "owner": "m0bilesecurity",
                     "repo": "RMS-Runtime-Mobile-Security",
-                    "stars": 3071
+                    "stars": 3072
                   }
                 },
                 {
@@ -540,7 +540,7 @@
                 "last_commit": "2026-08-14T05:36:04Z",
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13131
+                "stars": 13132
               }
             },
             {
@@ -555,7 +555,7 @@
                 "last_commit": "2026-04-08T07:54:54Z",
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4594
+                "stars": 4596
               }
             },
             {
@@ -570,7 +570,7 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1469
+                "stars": 1470
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1469
+                "stars": 1470
               }
             },
             {
@@ -615,7 +615,7 @@
                 "last_commit": "2023-05-19T21:04:24Z",
                 "owner": "payatu",
                 "repo": "diva-android",
-                "stars": 1137
+                "stars": 1140
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2024-07-18T00:33:14Z",
                 "owner": "oversecured",
                 "repo": "ovaa",
-                "stars": 754
+                "stars": 755
               }
             },
             {
@@ -832,7 +832,7 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9638
+                "stars": 9640
               }
             },
             {
@@ -847,7 +847,7 @@
                 "last_commit": "2024-07-24T18:34:52Z",
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5088
+                "stars": 5091
               }
             },
             {
@@ -1054,7 +1054,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21717
+                "stars": 21729
               }
             },
             {
@@ -1069,7 +1069,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9341
+                "stars": 9343
               }
             },
             {
@@ -1084,7 +1084,7 @@
                 "last_commit": "2026-08-05T09:53:58Z",
                 "owner": "securing",
                 "repo": "IOSSecuritySuite",
-                "stars": 2711
+                "stars": 2712
               }
             },
             {
@@ -1111,7 +1111,7 @@
                 "archived": false,
                 "id": 229842283,
                 "language": "Python",
-                "last_commit": "2026-08-22T05:13:22Z",
+                "last_commit": "2026-08-25T05:49:02Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
                 "stars": 1169
@@ -1181,7 +1181,7 @@
                 "last_commit": "2024-03-29T08:02:06Z",
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1111
+                "stars": 1112
               }
             },
             {
@@ -1276,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:26.711Z",
+    "last_updated": "2026-08-25T05:53:40.639Z",
     "original_repository": "vaib25vicky/awesome-mobile-security",
     "original_repository_id": 231425210,
     "original_repository_sha": "490ed366b448d4635a8263be62c51a92a619d060",
