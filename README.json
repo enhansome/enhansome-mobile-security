@@ -18,7 +18,8 @@
                 "owner": "ev-flow",
                 "repo": "quark-engine",
                 "stars": 1713
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "sh4hin",
                 "repo": "MobileApp-Pentest-Cheatsheet",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2019-11-04T12:59:55Z",
                 "owner": "Magpol",
                 "repo": "fridafde",
-                "stars": 51
-              }
+                "stars": 52
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -71,8 +74,9 @@
                     "last_commit": "2026-08-27T11:11:18Z",
                     "owner": "facebook",
                     "repo": "infer",
-                    "stars": 15691
-                  }
+                    "stars": 15693
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -83,11 +87,12 @@
                     "archived": false,
                     "id": 12499251,
                     "language": "Java",
-                    "last_commit": "2026-08-27T17:21:00Z",
+                    "last_commit": "2026-08-28T19:02:25Z",
                     "owner": "checkstyle",
                     "repo": "checkstyle",
-                    "stars": 9002
-                  }
+                    "stars": 9015
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -98,11 +103,12 @@
                     "archived": false,
                     "id": 23206290,
                     "language": "Java",
-                    "last_commit": "2026-08-27T17:01:57Z",
+                    "last_commit": "2026-08-28T19:16:19Z",
                     "owner": "google",
                     "repo": "error-prone",
-                    "stars": 7225
-                  }
+                    "stars": 7227
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "JesusFreke",
                     "repo": "smali",
                     "stars": 6628
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -131,8 +138,9 @@
                     "last_commit": "2025-08-20T21:55:15Z",
                     "owner": "dwisiswant0",
                     "repo": "apkleaks",
-                    "stars": 6275
-                  }
+                    "stars": 6276
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -143,11 +151,12 @@
                     "archived": false,
                     "id": 4992906,
                     "language": "Java",
-                    "last_commit": "2026-08-27T15:28:00Z",
+                    "last_commit": "2026-08-28T13:06:16Z",
                     "owner": "pmd",
                     "repo": "pmd",
-                    "stars": 5474
-                  }
+                    "stars": 5475
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -162,7 +171,8 @@
                     "owner": "linkedin",
                     "repo": "qark",
                     "stars": 3382
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -177,7 +187,8 @@
                     "owner": "soot-oss",
                     "repo": "soot",
                     "stars": 3098
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +203,8 @@
                     "owner": "find-sec-bugs",
                     "repo": "find-sec-bugs",
                     "stars": 2438
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -203,11 +215,12 @@
                     "archived": false,
                     "id": 116698806,
                     "language": "Java",
-                    "last_commit": "2026-08-18T08:38:40Z",
+                    "last_commit": "2026-08-28T17:55:21Z",
                     "owner": "secure-software-engineering",
                     "repo": "FlowDroid",
-                    "stars": 1258
-                  }
+                    "stars": 1259
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "sonyxperiadev",
                     "repo": "ApkAnalyser",
                     "stars": 1047
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -237,7 +251,8 @@
                     "owner": "honeynet",
                     "repo": "apkinspector",
                     "stars": 852
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -252,7 +267,8 @@
                     "owner": "maaaaz",
                     "repo": "androwarn",
                     "stars": 532
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -267,7 +283,8 @@
                     "owner": "novoda",
                     "repo": "gradle-static-analysis-plugin",
                     "stars": 403
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -282,7 +299,8 @@
                     "owner": "hahwul",
                     "repo": "droid-hunter",
                     "stars": 312
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -297,7 +315,8 @@
                     "owner": "noveogroup",
                     "repo": "android-check",
                     "stars": 265
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -312,7 +331,8 @@
                     "owner": "pwittchen",
                     "repo": "android-quality-starter",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -327,7 +347,8 @@
                     "owner": "Sukelluskello",
                     "repo": "VectorAttackScanner",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 }
               ],
               "description": null,
@@ -345,11 +366,12 @@
                     "archived": false,
                     "id": 4869294,
                     "language": "C",
-                    "last_commit": "2026-08-27T17:27:58Z",
+                    "last_commit": "2026-08-28T18:52:53Z",
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24660
-                  }
+                    "stars": 24672
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -363,8 +385,9 @@
                     "last_commit": "2026-08-27T04:55:25Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21656
-                  }
+                    "stars": 21660
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -378,8 +401,9 @@
                     "last_commit": "2026-08-03T21:28:34Z",
                     "owner": "m0bilesecurity",
                     "repo": "RMS-Runtime-Mobile-Security",
-                    "stars": 3075
-                  }
+                    "stars": 3077
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -393,8 +417,9 @@
                     "last_commit": "2020-09-22T01:45:56Z",
                     "owner": "ac-pm",
                     "repo": "Inspeckage",
-                    "stars": 2982
-                  }
+                    "stars": 2983
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -409,7 +434,8 @@
                     "owner": "sh4hin",
                     "repo": "Androl4b",
                     "stars": 1166
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -424,7 +450,8 @@
                     "owner": "idanr1986",
                     "repo": "cuckoo-droid",
                     "stars": 608
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -439,7 +466,8 @@
                     "owner": "abhi-r3v0",
                     "repo": "Adhrit",
                     "stars": 543
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -454,7 +482,8 @@
                     "owner": "AndroidHooker",
                     "repo": "hooker",
                     "stars": 415
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -469,7 +498,8 @@
                     "owner": "mingyuan-xia",
                     "repo": "PATDroid",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -484,7 +514,8 @@
                     "owner": "ucsb-seclab",
                     "repo": "baredroid",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -499,7 +530,8 @@
                     "owner": "antojoseph",
                     "repo": "droid-ff",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 },
                 {
                   "node_type": "item",
@@ -514,7 +546,8 @@
                     "owner": "programa-stic",
                     "repo": "marvin-django",
                     "stars": 74
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:21:14.395Z"
                 }
               ],
               "description": null,
@@ -537,11 +570,12 @@
                 "archived": false,
                 "id": 69648386,
                 "language": "Python",
-                "last_commit": "2026-08-14T05:36:04Z",
+                "last_commit": "2026-08-28T08:29:53Z",
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13139
-              }
+                "stars": 13141
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -555,8 +589,9 @@
                 "last_commit": "2026-04-08T07:54:54Z",
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4596
-              }
+                "stars": 4599
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -570,8 +605,9 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1470
-              }
+                "stars": 1471
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -585,8 +621,9 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1470
-              }
+                "stars": 1471
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -601,7 +638,8 @@
                 "owner": "OWASP",
                 "repo": "SecurityShepherd",
                 "stars": 1456
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "payatu",
                 "repo": "diva-android",
                 "stars": 1140
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "oversecured",
                 "repo": "ovaa",
                 "stars": 755
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -646,7 +686,8 @@
                 "owner": "logicalhacking",
                 "repo": "DVHMA",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -661,7 +702,8 @@
                 "owner": "nvisium-jack-mannino",
                 "repo": "OWASP-GoatDroid-Project",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "rafaeltoledo",
                 "repo": "android-security",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "SecurityCompass",
                 "repo": "AndroidLabs",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "HTBridge",
                 "repo": "pivaa",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -721,7 +766,8 @@
                 "owner": "jaiswalakshansh",
                 "repo": "Vuldroid",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "dan7800",
                 "repo": "VulnerableAndroidAppOracle",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -751,7 +798,8 @@
                 "owner": "CyberScions",
                 "repo": "Digitalbank",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -766,7 +814,8 @@
                 "owner": "CSPF-Founder",
                 "repo": "DodoVulnerableBank",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -781,7 +830,8 @@
                 "owner": "appknox",
                 "repo": "vulnerable-application",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -796,7 +846,8 @@
                 "owner": "mihir-shah99",
                 "repo": "VulnDroid",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -811,7 +862,8 @@
                 "owner": "lancechentw",
                 "repo": "VulnApp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -832,8 +884,9 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9646
-              }
+                "stars": 9648
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -847,8 +900,9 @@
                 "last_commit": "2024-07-24T18:34:52Z",
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5093
-              }
+                "stars": 5094
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -862,8 +916,9 @@
                 "last_commit": "2025-09-10T21:34:51Z",
                 "owner": "B3nac",
                 "repo": "Android-Reports-and-Resources",
-                "stars": 1707
-              }
+                "stars": 1708
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -878,7 +933,8 @@
                 "owner": "den4uk",
                 "repo": "andriller",
                 "stars": 1599
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -892,8 +948,9 @@
                 "last_commit": "2021-01-06T20:30:23Z",
                 "owner": "sk3ptre",
                 "repo": "AndroidMalware_2020",
-                "stars": 334
-              }
+                "stars": 335
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -907,8 +964,9 @@
                 "last_commit": "2020-01-01T19:44:44Z",
                 "owner": "sk3ptre",
                 "repo": "AndroidMalware_2019",
-                "stars": 254
-              }
+                "stars": 255
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -923,7 +981,8 @@
                 "owner": "PaulSec",
                 "repo": "Shodan.io-mobile-app",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -938,7 +997,8 @@
                 "owner": "nelenkov",
                 "repo": "android-device-check",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -952,8 +1012,9 @@
                 "last_commit": "2019-02-15T01:35:04Z",
                 "owner": "sk3ptre",
                 "repo": "AndroidMalware_2018",
-                "stars": 46
-              }
+                "stars": 47
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -981,7 +1042,8 @@
                 "owner": "felixgr",
                 "repo": "secure-ios-app-dev",
                 "stars": 1419
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -996,7 +1058,8 @@
                 "owner": "iOS-Reverse-Engineering-Dev",
                 "repo": "Swift-Apps-Reverse-Engineering",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1011,7 +1074,8 @@
                 "owner": "Magpol",
                 "repo": "HowTo-decrypt-Signal.sqlite-for-IOS",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -1032,8 +1096,9 @@
                 "last_commit": "2024-04-17T03:04:19Z",
                 "owner": "ivRodriguezCA",
                 "repo": "RE-iOS-Apps",
-                "stars": 2900
-              }
+                "stars": 2901
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -1054,8 +1119,9 @@
                 "last_commit": "2026-08-27T16:26:32Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21762
-              }
+                "stars": 21778
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1069,8 +1135,9 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9348
-              }
+                "stars": 9350
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1152,8 @@
                 "owner": "securing",
                 "repo": "IOSSecuritySuite",
                 "stars": 2713
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1100,7 +1168,8 @@
                 "owner": "ReversecLabs",
                 "repo": "needle",
                 "stars": 1401
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1111,11 +1180,12 @@
                 "archived": false,
                 "id": 229842283,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:28:09Z",
+                "last_commit": "2026-08-28T19:20:48Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1172
-              }
+                "stars": 1176
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1130,7 +1200,8 @@
                 "owner": "BishopFox",
                 "repo": "bfinject",
                 "stars": 642
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1145,7 +1216,8 @@
                 "owner": "GeoSn0w",
                 "repo": "Myriam",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1160,7 +1232,8 @@
                 "owner": "shinvou",
                 "repo": "decrypt0r",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -1181,8 +1254,9 @@
                 "last_commit": "2024-03-29T08:02:06Z",
                 "owner": "prateek147",
                 "repo": "DVIA-v2",
-                "stars": 1111
-              }
+                "stars": 1112
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1197,7 +1271,8 @@
                 "owner": "prateek147",
                 "repo": "DVIA",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1212,7 +1287,8 @@
                 "owner": "SecurityCompass",
                 "repo": "iPhoneLabs",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -1233,8 +1309,9 @@
                 "last_commit": "2026-08-15T02:27:49Z",
                 "owner": "ashishb",
                 "repo": "osx-and-ios-security-awesome",
-                "stars": 1729
-              }
+                "stars": 1730
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1249,7 +1326,8 @@
                 "owner": "ansjdnakjdnajkd",
                 "repo": "iOS",
                 "stars": 1307
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             },
             {
               "node_type": "item",
@@ -1264,7 +1342,8 @@
                 "owner": "0xmachos",
                 "repo": "iOS-Security-Guides",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T19:21:14.395Z"
             }
           ],
           "description": null,
@@ -1276,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:10:56.154Z",
+    "last_updated": "2026-08-28T19:21:14.395Z",
     "original_repository_info": {
       "archived": false,
       "id": 231425210,
