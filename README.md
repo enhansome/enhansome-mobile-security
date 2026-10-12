@@ -6,7 +6,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### General - Blogs, Papers, How To's
 
-* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine) ⭐ 1,734 | 🐛 77 | 🌐 Python | 📅 2026-10-10
+* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine) ⭐ 1,733 | 🐛 77 | 🌐 Python | 📅 2026-10-10
 * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet) ⭐ 292 | 🐛 1 | 📅 2018-02-02
 * [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2019-11-04
 * [Android: Gaining access to arbitrary\* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
@@ -71,14 +71,14 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 #### Static Analysis
 
-* [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,716 | 🐛 261 | 🌐 OCaml | 📅 2026-10-09
-* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,594 | 🐛 768 | 🌐 Java | 📅 2026-10-11
-* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,249 | 🐛 546 | 🌐 Java | 📅 2026-10-11
+* [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer) ⭐ 15,717 | 🐛 262 | 🌐 OCaml | 📅 2026-10-09
+* [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle) ⭐ 9,595 | 🐛 767 | 🌐 Java | 📅 2026-10-12
+* [Error Prone – Static Analysis Tool](https://github.com/google/error-prone) ⭐ 7,249 | 🐛 544 | 🌐 Java | 📅 2026-10-12
 * [Smali/Baksmali – Assembler/Disassembler for the dex format](https://github.com/JesusFreke/smali) ⚠️ Archived
-* [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks) ⭐ 6,340 | 🐛 26 | 🌐 Python | 📅 2025-08-20
-* [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd) ⭐ 5,500 | 🐛 611 | 🌐 Java | 📅 2026-10-11
+* [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks) ⭐ 6,344 | 🐛 26 | 🌐 Python | 📅 2025-08-20
+* [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd) ⭐ 5,502 | 🐛 611 | 🌐 Java | 📅 2026-10-11
 * [QARK – Quick Android Review Kit](https://github.com/linkedin/qark) ⭐ 3,391 | 🐛 79 | 🌐 Python | 📅 2024-01-16
-* [Soot – A Java Optimization Framework](https://github.com/Sable/soot) ⭐ 3,103 | 🐛 346 | 🌐 Java | 📅 2026-09-28
+* [Soot – A Java Optimization Framework](https://github.com/Sable/soot) ⭐ 3,104 | 🐛 345 | 🌐 Java | 📅 2026-10-12
 * [Find Security Bugs – A SpotBugs plugin for security audits of Java web applications.](https://github.com/find-sec-bugs/find-sec-bugs/) ⭐ 2,448 | 🐛 116 | 🌐 Java | 📅 2026-03-26
 * [Flow Droid – Static Data Flow Tracker](https://github.com/secure-software-engineering/FlowDroid) ⭐ 1,271 | 🐛 245 | 🌐 Java | 📅 2026-09-28
 * [APK Analyzer – Static and Virtual Analysis Tool](https://github.com/sonyxperiadev/ApkAnalyser) ⚠️ Archived
@@ -98,10 +98,10 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 #### Dynamic Analysis
 
-* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 24,990 | 🐛 790 | 🌐 C | 📅 2026-10-11
-* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,917 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-30
-* [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,110 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01
-* [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,987 | 🐛 58 | 🌐 Java | 📅 2020-09-22
+* [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2) ⭐ 25,001 | 🐛 788 | 🌐 C | 📅 2026-10-12
+* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,924 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-30
+* [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,112 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-12
+* [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,986 | 🐛 58 | 🌐 Java | 📅 2020-09-22
 * [AndroL4b - Android security virtual machine based on ubuntu-mate](https://github.com/sh4hin/Androl4b) ⭐ 1,175 | 🐛 5 | 📅 2023-05-31
 * [CuckooDroid - Extension of Cuckoo Sandbox the Open Source software](https://github.com/idanr1986/cuckoo-droid) ⭐ 609 | 🐛 71 | 🌐 Python | 📅 2020-11-07
 * [Adhrit - Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks](https://github.com/abhi-r3v0/Adhrit) ⚠️ Archived
@@ -140,9 +140,9 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 ### Labs
 
 * [OWASP-mstg](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,241 | 🐛 242 | 🌐 Python | 📅 2026-10-10
-* [Sieve app](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk) ⭐ 4,630 | 🐛 9 | 🌐 Python | 📅 2026-04-08
-* [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,479 | 🐛 17 | 🌐 Java | 📅 2024-04-17
-* [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,479 | 🐛 17 | 🌐 Java | 📅 2024-04-17
+* [Sieve app](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk) ⭐ 4,632 | 🐛 9 | 🌐 Python | 📅 2026-04-08
+* [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,480 | 🐛 17 | 🌐 Java | 📅 2024-04-17
+* [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,480 | 🐛 17 | 🌐 Java | 📅 2024-04-17
 * [SecurityShepherd](https://github.com/OWASP/SecurityShepherd) ⭐ 1,460 | 🐛 160 | 🌐 Java | 📅 2026-10-09
 * [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android) ⭐ 1,152 | 🐛 13 | 🌐 Java | 📅 2023-05-19
 * [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa) ⭐ 763 | 🐛 1 | 🌐 Java | 📅 2026-10-06
@@ -186,13 +186,13 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### Misc.
 
-* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,743 | 🐛 0 | 🌐 Makefile | 📅 2026-10-06
-* [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm) ⭐ 5,123 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,749 | 🐛 0 | 🌐 Makefile | 📅 2026-10-06
+* [apk-mitm - a CLI application that prepares Android APK files for HTTPS inspection](https://github.com/shroudedcode/apk-mitm) ⭐ 5,125 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md) ⭐ 1,715 | 🐛 1 | 📅 2025-09-10
 * [Andriller - is software utility with a collection of forensic tools for smartphones](https://github.com/den4uk/andriller) ⭐ 1,618 | 🐛 12 | 🌐 Python | 📅 2022-06-27
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020) ⭐ 335 | 🐛 5 | 📅 2021-01-06
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019) ⭐ 255 | 🐛 1 | 📅 2020-01-01
-* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 234 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
+* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app) ⭐ 235 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-05
 * [android-device-check - a set of scripts to check Android device security configuration](https://github.com/nelenkov/android-device-check) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2019-10-25
 * [Popular Android Malware 2018](https://github.com/sk3ptre/AndroidMalware_2018) ⭐ 47 | 🐛 0 | 📅 2019-02-15
 * [Android Penetration Testing Courses](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
@@ -242,17 +242,17 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### Courses
 
-* [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps) ⭐ 2,916 | 🐛 2 | 📅 2024-04-17
+* [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps) ⭐ 2,917 | 🐛 2 | 📅 2024-04-17
 * [Pentesting iOS Applications](https://www.pentesteracademy.com/course?id=2)
 * [App Design and Development for iOS](https://www.coursera.org/learn/ios-app-design-development)
 
 ### Tools
 
-* [Frida](https://github.com/frida/frida/releases) ⭐ 22,183 | 🐛 1,973 | 🌐 Meson | 📅 2026-10-11
-* [Objection - mobile exploration toolkit by Frida](https://github.com/sensepost/objection) ⭐ 9,436 | 🐛 58 | 🌐 Python | 📅 2026-09-17
+* [Frida](https://github.com/frida/frida/releases) ⭐ 22,203 | 🐛 1,973 | 🌐 Meson | 📅 2026-10-12
+* [Objection - mobile exploration toolkit by Frida](https://github.com/sensepost/objection) ⭐ 9,441 | 🐛 58 | 🌐 Python | 📅 2026-09-17
 * [iOS Security Suite - an advanced and easy-to-use platform security & anti-tampering library](https://github.com/securing/IOSSecuritySuite) ⭐ 2,744 | 🐛 7 | 🌐 Swift | 📅 2026-08-05
 * [needle - The iOS Security Testing Framework](https://github.com/FSecureLABS/needle) ⚠️ Archived
-* [iLEAPP - iOS Logs, Events, And Preferences Parser](https://github.com/abrignoni/iLEAPP) ⭐ 1,372 | 🐛 57 | 🌐 Python | 📅 2026-10-11
+* [iLEAPP - iOS Logs, Events, And Preferences Parser](https://github.com/abrignoni/iLEAPP) ⭐ 1,375 | 🐛 58 | 🌐 Python | 📅 2026-10-11
 * [Bfinject](https://github.com/BishopFox/bfinject) ⭐ 643 | 🐛 34 | 🌐 Objective-C++ | 📅 2022-03-17
 * [Myriam iOS](https://github.com/GeoSn0w/Myriam) ⭐ 270 | 🐛 4 | 📅 2026-05-21
 * [decrypt0r - automatically download and decrypt SecureRom stuff](https://github.com/shinvou/decrypt0r) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2019-12-04
@@ -269,7 +269,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### Labs
 
-* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2) ⭐ 1,119 | 🐛 9 | 🌐 Swift | 📅 2024-03-29
+* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2) ⭐ 1,120 | 🐛 9 | 🌐 Swift | 📅 2024-03-29
 * [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA) ⭐ 452 | 🐛 8 | 🌐 Objective-C | 📅 2019-11-19
 * [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs) ⚠️ Archived
 * [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
@@ -295,7 +295,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### Misc.
 
-* [osx-security-awesome - OSX and iOS related security tools](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,748 | 🐛 0 | 🌐 Shell | 📅 2026-10-11
+* [osx-security-awesome - OSX and iOS related security tools](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,751 | 🐛 0 | 🌐 Shell | 📅 2026-10-11
 * [Most usable tools for iOS penetration testing](https://github.com/ansjdnakjdnajkd/iOS) ⭐ 1,325 | 🐛 0 | 📅 2023-11-06
 * [iOS-Security-Guides](https://github.com/0xmachos/iOS-Security-Guides) ⚠️ Archived
 * [Trust in Apple's Secret Garden: Exploring & Reversing Apple's Continuity Protocol-Slides](https://i.blackhat.com/eu-19/Thursday/eu-19-Yen-Trust-In-Apples-Secret-Garden-Exploring-Reversing-Apples-Continuity-Protocol-3.pdf)
@@ -304,4 +304,4 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
