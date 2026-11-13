@@ -17,8 +17,8 @@
                 "id": 216696377,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T15:41:55Z",
-                "open_issues": 80,
+                "last_commit": "2026-11-13T14:57:08Z",
+                "open_issues": 79,
                 "owner": "ev-flow",
                 "repo": "quark-engine",
                 "stars": 1738,
@@ -105,7 +105,7 @@
                     "open_issues": 196,
                     "owner": "meta",
                     "repo": "infer",
-                    "stars": 15755,
+                    "stars": 15756,
                     "topics": [
                       "c",
                       "code-quality",
@@ -130,8 +130,8 @@
                     "id": 12499251,
                     "language": "Java",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-11-12T15:48:26Z",
-                    "open_issues": 935,
+                    "last_commit": "2026-11-13T14:50:45Z",
+                    "open_issues": 933,
                     "owner": "checkstyle",
                     "repo": "checkstyle",
                     "stars": 9646,
@@ -158,8 +158,8 @@
                     "id": 23206290,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T03:09:17Z",
-                    "open_issues": 519,
+                    "last_commit": "2026-11-13T14:27:14Z",
+                    "open_issues": 518,
                     "owner": "google",
                     "repo": "error-prone",
                     "stars": 7270,
@@ -207,7 +207,7 @@
                     "open_issues": 28,
                     "owner": "dwisiswant0",
                     "repo": "apkleaks",
-                    "stars": 6390,
+                    "stars": 6391,
                     "topics": [
                       "android-security",
                       "apk",
@@ -233,11 +233,11 @@
                     "id": 4992906,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-12T12:27:24Z",
-                    "open_issues": 600,
+                    "last_commit": "2026-11-13T14:33:38Z",
+                    "open_issues": 604,
                     "owner": "pmd",
                     "repo": "pmd",
-                    "stars": 5529,
+                    "stars": 5530,
                     "topics": [
                       "apex",
                       "code-analysis",
@@ -473,7 +473,7 @@
                     "open_issues": 3,
                     "owner": "hahwul",
                     "repo": "droid-hunter",
-                    "stars": 313,
+                    "stars": 314,
                     "topics": [
                       "android",
                       "hacking",
@@ -575,11 +575,11 @@
                     "id": 4869294,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-12T15:52:57Z",
-                    "open_issues": 792,
+                    "last_commit": "2026-11-13T11:27:55Z",
+                    "open_issues": 796,
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 25409,
+                    "stars": 25420,
                     "topics": [
                       "binary-analysis",
                       "c",
@@ -611,7 +611,7 @@
                     "open_issues": 7,
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 22207,
+                    "stars": 22215,
                     "topics": [
                       "android-security",
                       "api-testing",
@@ -652,7 +652,7 @@
                     "open_issues": 12,
                     "owner": "m0bilesecurity",
                     "repo": "RMS-Runtime-Mobile-Security",
-                    "stars": 3146,
+                    "stars": 3147,
                     "topics": [
                       "android-security",
                       "frida",
@@ -912,10 +912,10 @@
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-11-10T11:23:38Z",
-                "open_issues": 254,
+                "open_issues": 255,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13335,
+                "stars": 13337,
                 "topics": [
                   "android",
                   "android-application",
@@ -956,7 +956,7 @@
                 "open_issues": 19,
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4652,
+                "stars": 4654,
                 "topics": [
                   "android",
                   "drozer",
@@ -1028,7 +1028,7 @@
                 "open_issues": 190,
                 "owner": "OWASP",
                 "repo": "SecurityShepherd",
-                "stars": 1467,
+                "stars": 1468,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:14.395Z"
@@ -1377,7 +1377,7 @@
                 "open_issues": 1,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9825,
+                "stars": 9827,
                 "topics": [
                   "android",
                   "awesome",
@@ -1469,7 +1469,7 @@
                 "open_issues": 13,
                 "owner": "den4uk",
                 "repo": "andriller",
-                "stars": 1632,
+                "stars": 1633,
                 "topics": [
                   "android",
                   "forensics",
@@ -1717,11 +1717,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T21:04:18Z",
-                "open_issues": 1973,
+                "last_commit": "2026-11-13T11:30:04Z",
+                "open_issues": 1971,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22763,
+                "stars": 22778,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -1746,7 +1746,7 @@
                 "open_issues": 56,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9505,
+                "stars": 9508,
                 "topics": [
                   "android",
                   "framework",
@@ -1776,7 +1776,7 @@
                 "open_issues": 8,
                 "owner": "securing",
                 "repo": "IOSSecuritySuite",
-                "stars": 2754,
+                "stars": 2755,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:14.395Z"
@@ -1793,11 +1793,11 @@
                 "id": 229842283,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T16:29:08Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-12T21:08:59Z",
+                "open_issues": 51,
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1444,
+                "stars": 1446,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:21:14.395Z"
@@ -2026,7 +2026,7 @@
                 "open_issues": 0,
                 "owner": "ansjdnakjdnajkd",
                 "repo": "iOS",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "apple",
                   "cheatsheet",
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:53:23.392Z",
+    "last_updated": "2026-11-13T15:14:19.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.",
